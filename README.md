@@ -1,2 +1,1 @@
-# Arduino-with-Python-
-Arduino Programming with Python Firmata
+# Arduino Programming with Python Firmata
